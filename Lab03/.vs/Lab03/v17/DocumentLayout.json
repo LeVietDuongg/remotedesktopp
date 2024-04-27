@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\New folder\\lab3laptrinh-mang\\Lab03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{161B8ACC-D680-4B7A-8426-7AFAB7865C40}|Bai05\\Bai05.csproj|e:\\new folder\\lab3laptrinh-mang\\lab03\\bai05\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161B8ACC-D680-4B7A-8426-7AFAB7865C40}|Bai05\\Bai05.csproj|solutionrelative:bai05\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161B8ACC-D680-4B7A-8426-7AFAB7865C40}|Bai05\\Bai05.csproj|E:\\New folder\\lab3laptrinh-mang\\Lab03\\bai05\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161B8ACC-D680-4B7A-8426-7AFAB7865C40}|Bai05\\Bai05.csproj|solutionrelative:bai05\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161B8ACC-D680-4B7A-8426-7AFAB7865C40}|Bai05\\Bai05.csproj|E:\\New folder\\lab3laptrinh-mang\\Lab03\\bai05\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{161B8ACC-D680-4B7A-8426-7AFAB7865C40}|Bai05\\Bai05.csproj|solutionrelative:bai05\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161B8ACC-D680-4B7A-8426-7AFAB7865C40}|Bai05\\Bai05.csproj|E:\\New folder\\lab3laptrinh-mang\\Lab03\\bai05\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{161B8ACC-D680-4B7A-8426-7AFAB7865C40}|Bai05\\Bai05.csproj|solutionrelative:bai05\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "E:\\New folder\\lab3laptrinh-mang\\Lab03\\Bai05\\Server.cs",
+              "RelativeDocumentMoniker": "Bai05\\Server.cs",
+              "ToolTip": "E:\\New folder\\lab3laptrinh-mang\\Lab03\\Bai05\\Server.cs [Design]",
+              "RelativeToolTip": "Bai05\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:13:39.888Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "E:\\New folder\\lab3laptrinh-mang\\Lab03\\Bai05\\Server.cs",
+              "RelativeDocumentMoniker": "Bai05\\Server.cs",
+              "ToolTip": "E:\\New folder\\lab3laptrinh-mang\\Lab03\\Bai05\\Server.cs",
+              "RelativeToolTip": "Bai05\\Server.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAwwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:26:27.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "E:\\New folder\\lab3laptrinh-mang\\Lab03\\Bai05\\Client.cs",
+              "RelativeDocumentMoniker": "Bai05\\Client.cs",
+              "ToolTip": "E:\\New folder\\lab3laptrinh-mang\\Lab03\\Bai05\\Client.cs",
+              "RelativeToolTip": "Bai05\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:53:38.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "E:\\New folder\\lab3laptrinh-mang\\Lab03\\Bai05\\Client.cs",
+              "RelativeDocumentMoniker": "Bai05\\Client.cs",
+              "ToolTip": "E:\\New folder\\lab3laptrinh-mang\\Lab03\\Bai05\\Client.cs [Design]",
+              "RelativeToolTip": "Bai05\\Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:51:45.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

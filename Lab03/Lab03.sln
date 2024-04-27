@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai01", "WinFormsApp1\Bai01.csproj", "{E184DE50-3220-4336-83F0-CB7E5DEC4C19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai05", "Bai05\Bai05.csproj", "{161B8ACC-D680-4B7A-8426-7AFAB7865C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E184DE50-3220-4336-83F0-CB7E5DEC4C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E184DE50-3220-4336-83F0-CB7E5DEC4C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E184DE50-3220-4336-83F0-CB7E5DEC4C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E184DE50-3220-4336-83F0-CB7E5DEC4C19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{161B8ACC-D680-4B7A-8426-7AFAB7865C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161B8ACC-D680-4B7A-8426-7AFAB7865C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161B8ACC-D680-4B7A-8426-7AFAB7865C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161B8ACC-D680-4B7A-8426-7AFAB7865C40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C12E74E-4213-4ACB-8646-2B042BA8FDC6}
+	EndGlobalSection
+EndGlobal

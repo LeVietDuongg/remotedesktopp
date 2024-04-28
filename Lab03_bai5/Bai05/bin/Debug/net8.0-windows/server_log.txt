@@ -1,0 +1,101 @@
+4/27/2024 9:25:12 AM: Server started...
+4/27/2024 9:25:15 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:36:54 AM: Server started...
+4/27/2024 9:36:55 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:36:55 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:38:55 AM: Server started...
+4/27/2024 9:39:01 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:39:02 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:39:03 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:39:03 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:39:03 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:39:03 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:39:03 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:39:04 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:39:04 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:39:04 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:47:12 AM: Server started...
+4/27/2024 9:47:14 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:47:15 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:47:15 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:47:15 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:47:15 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:47:16 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:47:16 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:47:16 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:47:16 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 9:47:16 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 10:12:43 AM: Server started...
+4/27/2024 10:12:45 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 10:12:45 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 10:13:09 AM: Error starting server: Not listening. You must call the Start() method before calling this method.
+4/27/2024 10:15:22 AM: Server started...
+4/27/2024 10:15:23 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 10:15:36 AM: Error starting server: Not listening. You must call the Start() method before calling this method.
+4/27/2024 10:22:29 AM: Server started...
+4/27/2024 10:22:30 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 10:22:31 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 10:22:31 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 10:23:00 AM: Error starting server: Not listening. You must call the Start() method before calling this method.
+4/27/2024 10:27:39 AM: Server started...
+4/27/2024 10:27:40 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 10:27:40 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 10:27:41 AM: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+4/27/2024 10:34:41 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:34:41 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:35:39 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:35:39 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:35:40 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:35:40 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:35:54 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:35:54 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:35:55 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:35:55 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:35:55 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:35:55 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:35:55 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:37:26 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:37:27 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:37:27 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:37:27 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:37:27 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:37:27 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:37:28 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:37:28 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:37:28 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:37:28 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:37:28 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+4/27/2024 10:37:28 AM: Error starting server: An attempt was made to access a socket in a way forbidden by its access permissions.
+28/04/2024 10:45:39 SA: Server started...
+28/04/2024 10:45:40 SA: Server stopped.
+28/04/2024 10:45:40 SA: Error starting server: The I/O operation has been aborted because of either a thread exit or an application request.
+28/04/2024 11:39:01 SA: Server started...
+28/04/2024 2:17:19 CH: Server started...
+28/04/2024 2:20:59 CH: Error stopping server: Object reference not set to an instance of an object.
+28/04/2024 2:45:06 CH: Server started...
+28/04/2024 7:00:23 CH: Server started...
+28/04/2024 7:00:31 CH: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+28/04/2024 7:00:33 CH: Error starting server: Not listening. You must call the Start() method before calling this method.
+28/04/2024 7:00:57 CH: Server started...
+28/04/2024 7:01:18 CH: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+28/04/2024 7:01:19 CH: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+28/04/2024 7:01:19 CH: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+28/04/2024 7:01:19 CH: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+28/04/2024 7:01:21 CH: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+28/04/2024 7:01:21 CH: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+28/04/2024 7:01:26 CH: Error starting server: Not listening. You must call the Start() method before calling this method.
+28/04/2024 7:01:48 CH: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+28/04/2024 7:01:52 CH: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+28/04/2024 7:02:06 CH: Server started...
+28/04/2024 7:13:45 CH: Server started...
+28/04/2024 7:13:46 CH: Error handling client: Cross-thread operation not valid: Control 'lsvDSMonan' accessed from a thread other than the thread it was created on.
+28/04/2024 7:13:48 CH: Error handling client: Cross-thread operation not valid: Control 'lsvDSMonan' accessed from a thread other than the thread it was created on.
+28/04/2024 7:21:34 CH: Server started...
+28/04/2024 7:21:35 CH: Error handling client: Cross-thread operation not valid: Control 'lsvDSMonan' accessed from a thread other than the thread it was created on.
+28/04/2024 7:21:38 CH: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+28/04/2024 7:21:40 CH: Error starting server: Not listening. You must call the Start() method before calling this method.
+28/04/2024 7:21:40 CH: Error handling client: Cross-thread operation not valid: Control 'lsvDSMonan' accessed from a thread other than the thread it was created on.
+28/04/2024 7:21:44 CH: Error starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+28/04/2024 7:35:17 CH: Server started...
+28/04/2024 7:35:22 CH: Error handling client: Cross-thread operation not valid: Control 'lsvDSMonan' accessed from a thread other than the thread it was created on.
+28/04/2024 7:41:28 CH: Server started...

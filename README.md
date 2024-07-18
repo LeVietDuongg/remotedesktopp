@@ -8,3 +8,4 @@ Chuyển file: Dễ dàng truyền tải file giữa các máy tính đang kết
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 ![alt text](image-4.png)# remotedesktop
+Thành viên thực hiện: Lê Viết Dương-mssv:225200300

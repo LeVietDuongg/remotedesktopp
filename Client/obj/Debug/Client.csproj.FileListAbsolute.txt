@@ -1,0 +1,108 @@
+E:\RemoteDesktop\Client\bin\Debug\Client.exe
+E:\RemoteDesktop\Client\bin\Debug\Client.pdb
+E:\RemoteDesktop\Client\bin\Debug\Controls.dll
+E:\RemoteDesktop\Client\bin\Debug\Managers.dll
+E:\RemoteDesktop\Client\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.dll
+E:\RemoteDesktop\Client\bin\Debug\Model.dll
+E:\RemoteDesktop\Client\bin\Debug\Network.dll
+E:\RemoteDesktop\Client\bin\Debug\Nini.dll
+E:\RemoteDesktop\Client\bin\Debug\Providers.dll
+E:\RemoteDesktop\Client\bin\Debug\Lidgren.Network.dll
+E:\RemoteDesktop\Client\bin\Debug\MirrorDriver.dll
+E:\RemoteDesktop\Client\bin\Debug\Controls.pdb
+E:\RemoteDesktop\Client\bin\Debug\Managers.pdb
+E:\RemoteDesktop\Client\bin\Debug\Model.pdb
+E:\RemoteDesktop\Client\bin\Debug\Network.pdb
+E:\RemoteDesktop\Client\bin\Debug\Providers.pdb
+E:\RemoteDesktop\Client\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.xml
+E:\RemoteDesktop\Client\bin\Debug\Lidgren.Network.pdb
+E:\RemoteDesktop\Client\bin\Debug\MirrorDriver.pdb
+E:\RemoteDesktop\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\RemoteDesktop\Client\obj\Debug\Client.Forms.FormConnect.resources
+E:\RemoteDesktop\Client\obj\Debug\Client.Forms.FormLiveControl.resources
+E:\RemoteDesktop\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\RemoteDesktop\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\RemoteDesktop\Client\obj\Debug\Client.csproj.Up2Date
+E:\RemoteDesktop\Client\obj\Debug\Client.exe
+E:\RemoteDesktop\Client\obj\Debug\Client.pdb
+E:\quản trị mạng\RemoteDesktop\Client\bin\Debug\Client.exe
+E:\quản trị mạng\RemoteDesktop\Client\bin\Debug\Client.pdb
+E:\quản trị mạng\RemoteDesktop\Client\bin\Debug\Controls.dll
+E:\quản trị mạng\RemoteDesktop\Client\bin\Debug\Managers.dll
+E:\quản trị mạng\RemoteDesktop\Client\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.dll
+E:\quản trị mạng\RemoteDesktop\Client\bin\Debug\Model.dll
+E:\quản trị mạng\RemoteDesktop\Client\bin\Debug\Network.dll
+E:\quản trị mạng\RemoteDesktop\Client\bin\Debug\Nini.dll
+E:\quản trị mạng\RemoteDesktop\Client\bin\Debug\Providers.dll
+E:\quản trị mạng\RemoteDesktop\Client\bin\Debug\Lidgren.Network.dll
+E:\quản trị mạng\RemoteDesktop\Client\bin\Debug\MirrorDriver.dll
+E:\quản trị mạng\RemoteDesktop\Client\bin\Debug\Controls.pdb
+E:\quản trị mạng\RemoteDesktop\Client\bin\Debug\Managers.pdb
+E:\quản trị mạng\RemoteDesktop\Client\bin\Debug\Model.pdb
+E:\quản trị mạng\RemoteDesktop\Client\bin\Debug\Network.pdb
+E:\quản trị mạng\RemoteDesktop\Client\bin\Debug\Providers.pdb
+E:\quản trị mạng\RemoteDesktop\Client\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.xml
+E:\quản trị mạng\RemoteDesktop\Client\bin\Debug\Lidgren.Network.pdb
+E:\quản trị mạng\RemoteDesktop\Client\bin\Debug\MirrorDriver.pdb
+E:\quản trị mạng\RemoteDesktop\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\quản trị mạng\RemoteDesktop\Client\obj\Debug\Client.Forms.FormConnect.resources
+E:\quản trị mạng\RemoteDesktop\Client\obj\Debug\Client.Forms.FormLiveControl.resources
+E:\quản trị mạng\RemoteDesktop\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\quản trị mạng\RemoteDesktop\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\quản trị mạng\RemoteDesktop\Client\obj\Debug\Client.csproj.Up2Date
+E:\quản trị mạng\RemoteDesktop\Client\obj\Debug\Client.exe
+E:\quản trị mạng\RemoteDesktop\Client\obj\Debug\Client.pdb
+C:\Users\USER\remotedesktop\Client\bin\Debug\Client.exe
+C:\Users\USER\remotedesktop\Client\bin\Debug\Client.pdb
+C:\Users\USER\remotedesktop\Client\bin\Debug\Controls.dll
+C:\Users\USER\remotedesktop\Client\bin\Debug\Managers.dll
+C:\Users\USER\remotedesktop\Client\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.dll
+C:\Users\USER\remotedesktop\Client\bin\Debug\Model.dll
+C:\Users\USER\remotedesktop\Client\bin\Debug\Network.dll
+C:\Users\USER\remotedesktop\Client\bin\Debug\Nini.dll
+C:\Users\USER\remotedesktop\Client\bin\Debug\Providers.dll
+C:\Users\USER\remotedesktop\Client\bin\Debug\Lidgren.Network.dll
+C:\Users\USER\remotedesktop\Client\bin\Debug\MirrorDriver.dll
+C:\Users\USER\remotedesktop\Client\bin\Debug\Controls.pdb
+C:\Users\USER\remotedesktop\Client\bin\Debug\Managers.pdb
+C:\Users\USER\remotedesktop\Client\bin\Debug\Model.pdb
+C:\Users\USER\remotedesktop\Client\bin\Debug\Network.pdb
+C:\Users\USER\remotedesktop\Client\bin\Debug\Providers.pdb
+C:\Users\USER\remotedesktop\Client\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.xml
+C:\Users\USER\remotedesktop\Client\bin\Debug\Lidgren.Network.pdb
+C:\Users\USER\remotedesktop\Client\bin\Debug\MirrorDriver.pdb
+C:\Users\USER\remotedesktop\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\USER\remotedesktop\Client\obj\Debug\Client.Forms.FormConnect.resources
+C:\Users\USER\remotedesktop\Client\obj\Debug\Client.Forms.FormLiveControl.resources
+C:\Users\USER\remotedesktop\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\USER\remotedesktop\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\USER\remotedesktop\Client\obj\Debug\Client.csproj.Up2Date
+C:\Users\USER\remotedesktop\Client\obj\Debug\Client.exe
+C:\Users\USER\remotedesktop\Client\obj\Debug\Client.pdb
+E:\remotedesktoppp\Client\bin\Debug\Client.exe
+E:\remotedesktoppp\Client\bin\Debug\Client.pdb
+E:\remotedesktoppp\Client\bin\Debug\Controls.dll
+E:\remotedesktoppp\Client\bin\Debug\Managers.dll
+E:\remotedesktoppp\Client\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.dll
+E:\remotedesktoppp\Client\bin\Debug\Model.dll
+E:\remotedesktoppp\Client\bin\Debug\Network.dll
+E:\remotedesktoppp\Client\bin\Debug\Nini.dll
+E:\remotedesktoppp\Client\bin\Debug\Providers.dll
+E:\remotedesktoppp\Client\bin\Debug\Lidgren.Network.dll
+E:\remotedesktoppp\Client\bin\Debug\MirrorDriver.dll
+E:\remotedesktoppp\Client\bin\Debug\Controls.pdb
+E:\remotedesktoppp\Client\bin\Debug\Managers.pdb
+E:\remotedesktoppp\Client\bin\Debug\Model.pdb
+E:\remotedesktoppp\Client\bin\Debug\Network.pdb
+E:\remotedesktoppp\Client\bin\Debug\Providers.pdb
+E:\remotedesktoppp\Client\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.xml
+E:\remotedesktoppp\Client\bin\Debug\Lidgren.Network.pdb
+E:\remotedesktoppp\Client\bin\Debug\MirrorDriver.pdb
+E:\remotedesktoppp\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\remotedesktoppp\Client\obj\Debug\Client.Forms.FormConnect.resources
+E:\remotedesktoppp\Client\obj\Debug\Client.Forms.FormLiveControl.resources
+E:\remotedesktoppp\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\remotedesktoppp\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\remotedesktoppp\Client\obj\Debug\Client.csproj.Up2Date
+E:\remotedesktoppp\Client\obj\Debug\Client.exe
+E:\remotedesktoppp\Client\obj\Debug\Client.pdb

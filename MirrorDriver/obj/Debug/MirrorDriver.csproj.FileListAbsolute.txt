@@ -1,0 +1,22 @@
+C:\Users\Jason\Dropbox\RemoteDesktop\MirrorDriver\bin\Debug\MirrorDriver.dll
+C:\Users\Jason\Dropbox\RemoteDesktop\MirrorDriver\bin\Debug\MirrorDriver.pdb
+C:\Users\Jason\Dropbox\RemoteDesktop\MirrorDriver\obj\Debug\MirrorDriver.dll
+C:\Users\Jason\Dropbox\RemoteDesktop\MirrorDriver\obj\Debug\MirrorDriver.pdb
+E:\RemoteDesktop\MirrorDriver\bin\Debug\MirrorDriver.dll
+E:\RemoteDesktop\MirrorDriver\bin\Debug\MirrorDriver.pdb
+E:\RemoteDesktop\MirrorDriver\obj\Debug\MirrorDriver.csproj.AssemblyReference.cache
+E:\RemoteDesktop\MirrorDriver\obj\Debug\MirrorDriver.csproj.CoreCompileInputs.cache
+E:\RemoteDesktop\MirrorDriver\obj\Debug\MirrorDriver.dll
+E:\RemoteDesktop\MirrorDriver\obj\Debug\MirrorDriver.pdb
+E:\quản trị mạng\RemoteDesktop\MirrorDriver\bin\Debug\MirrorDriver.dll
+E:\quản trị mạng\RemoteDesktop\MirrorDriver\bin\Debug\MirrorDriver.pdb
+E:\quản trị mạng\RemoteDesktop\MirrorDriver\obj\Debug\MirrorDriver.csproj.AssemblyReference.cache
+E:\quản trị mạng\RemoteDesktop\MirrorDriver\obj\Debug\MirrorDriver.csproj.CoreCompileInputs.cache
+E:\quản trị mạng\RemoteDesktop\MirrorDriver\obj\Debug\MirrorDriver.dll
+E:\quản trị mạng\RemoteDesktop\MirrorDriver\obj\Debug\MirrorDriver.pdb
+E:\remotedesktoppp\MirrorDriver\bin\Debug\MirrorDriver.dll
+E:\remotedesktoppp\MirrorDriver\bin\Debug\MirrorDriver.pdb
+E:\remotedesktoppp\MirrorDriver\obj\Debug\MirrorDriver.csproj.AssemblyReference.cache
+E:\remotedesktoppp\MirrorDriver\obj\Debug\MirrorDriver.csproj.CoreCompileInputs.cache
+E:\remotedesktoppp\MirrorDriver\obj\Debug\MirrorDriver.dll
+E:\remotedesktoppp\MirrorDriver\obj\Debug\MirrorDriver.pdb

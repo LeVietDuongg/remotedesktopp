@@ -1,0 +1,23 @@
+C:\Users\Jason\Dropbox\RemoteDesktop\Controls\bin\Debug\Controls.dll
+C:\Users\Jason\Dropbox\RemoteDesktop\Controls\bin\Debug\Controls.pdb
+C:\Users\Jason\Dropbox\RemoteDesktop\Controls\obj\Debug\Controls.dll
+C:\Users\Jason\Dropbox\RemoteDesktop\Controls\obj\Debug\Controls.pdb
+C:\Users\Jason\Dropbox\RemoteDesktop\Controls\obj\Debug\Controls.csprojResolveAssemblyReference.cache
+E:\RemoteDesktop\Controls\bin\Debug\Controls.dll
+E:\RemoteDesktop\Controls\bin\Debug\Controls.pdb
+E:\RemoteDesktop\Controls\obj\Debug\Controls.csproj.AssemblyReference.cache
+E:\RemoteDesktop\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+E:\RemoteDesktop\Controls\obj\Debug\Controls.dll
+E:\RemoteDesktop\Controls\obj\Debug\Controls.pdb
+E:\quản trị mạng\RemoteDesktop\Controls\bin\Debug\Controls.dll
+E:\quản trị mạng\RemoteDesktop\Controls\bin\Debug\Controls.pdb
+E:\quản trị mạng\RemoteDesktop\Controls\obj\Debug\Controls.csproj.AssemblyReference.cache
+E:\quản trị mạng\RemoteDesktop\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+E:\quản trị mạng\RemoteDesktop\Controls\obj\Debug\Controls.dll
+E:\quản trị mạng\RemoteDesktop\Controls\obj\Debug\Controls.pdb
+E:\remotedesktoppp\Controls\bin\Debug\Controls.dll
+E:\remotedesktoppp\Controls\bin\Debug\Controls.pdb
+E:\remotedesktoppp\Controls\obj\Debug\Controls.csproj.AssemblyReference.cache
+E:\remotedesktoppp\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+E:\remotedesktoppp\Controls\obj\Debug\Controls.dll
+E:\remotedesktoppp\Controls\obj\Debug\Controls.pdb

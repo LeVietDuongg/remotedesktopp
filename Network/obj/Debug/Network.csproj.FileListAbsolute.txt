@@ -1,0 +1,68 @@
+C:\Users\Jason\Dropbox\RemoteDesktop\Network\bin\Debug\Network.dll
+C:\Users\Jason\Dropbox\RemoteDesktop\Network\bin\Debug\Network.pdb
+C:\Users\Jason\Dropbox\RemoteDesktop\Network\bin\Debug\Lidgren.Network.dll
+C:\Users\Jason\Dropbox\RemoteDesktop\Network\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.dll
+C:\Users\Jason\Dropbox\RemoteDesktop\Network\bin\Debug\Model.dll
+C:\Users\Jason\Dropbox\RemoteDesktop\Network\bin\Debug\Nini.dll
+C:\Users\Jason\Dropbox\RemoteDesktop\Network\bin\Debug\Model.pdb
+C:\Users\Jason\Dropbox\RemoteDesktop\Network\bin\Debug\Lidgren.Network.pdb
+C:\Users\Jason\Dropbox\RemoteDesktop\Network\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.xml
+C:\Users\Jason\Dropbox\RemoteDesktop\Network\obj\Debug\Network.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Dropbox\RemoteDesktop\Network\obj\Debug\Network.dll
+C:\Users\Jason\Dropbox\RemoteDesktop\Network\obj\Debug\Network.pdb
+E:\RemoteDesktop\Network\bin\Debug\Network.dll
+E:\RemoteDesktop\Network\bin\Debug\Network.pdb
+E:\RemoteDesktop\Network\bin\Debug\Lidgren.Network.dll
+E:\RemoteDesktop\Network\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.dll
+E:\RemoteDesktop\Network\bin\Debug\Model.dll
+E:\RemoteDesktop\Network\bin\Debug\Nini.dll
+E:\RemoteDesktop\Network\bin\Debug\Model.pdb
+E:\RemoteDesktop\Network\bin\Debug\Lidgren.Network.pdb
+E:\RemoteDesktop\Network\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.xml
+E:\RemoteDesktop\Network\obj\Debug\Network.csproj.AssemblyReference.cache
+E:\RemoteDesktop\Network\obj\Debug\Network.csproj.CoreCompileInputs.cache
+E:\RemoteDesktop\Network\obj\Debug\Network.csproj.Up2Date
+E:\RemoteDesktop\Network\obj\Debug\Network.dll
+E:\RemoteDesktop\Network\obj\Debug\Network.pdb
+E:\quản trị mạng\RemoteDesktop\Network\bin\Debug\Network.dll
+E:\quản trị mạng\RemoteDesktop\Network\bin\Debug\Network.pdb
+E:\quản trị mạng\RemoteDesktop\Network\bin\Debug\Lidgren.Network.dll
+E:\quản trị mạng\RemoteDesktop\Network\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.dll
+E:\quản trị mạng\RemoteDesktop\Network\bin\Debug\Model.dll
+E:\quản trị mạng\RemoteDesktop\Network\bin\Debug\Nini.dll
+E:\quản trị mạng\RemoteDesktop\Network\bin\Debug\Model.pdb
+E:\quản trị mạng\RemoteDesktop\Network\bin\Debug\Lidgren.Network.pdb
+E:\quản trị mạng\RemoteDesktop\Network\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.xml
+E:\quản trị mạng\RemoteDesktop\Network\obj\Debug\Network.csproj.AssemblyReference.cache
+E:\quản trị mạng\RemoteDesktop\Network\obj\Debug\Network.csproj.CoreCompileInputs.cache
+E:\quản trị mạng\RemoteDesktop\Network\obj\Debug\Network.csproj.Up2Date
+E:\quản trị mạng\RemoteDesktop\Network\obj\Debug\Network.dll
+E:\quản trị mạng\RemoteDesktop\Network\obj\Debug\Network.pdb
+C:\Users\USER\remotedesktop\Network\bin\Debug\Network.dll
+C:\Users\USER\remotedesktop\Network\bin\Debug\Network.pdb
+C:\Users\USER\remotedesktop\Network\bin\Debug\Lidgren.Network.dll
+C:\Users\USER\remotedesktop\Network\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.dll
+C:\Users\USER\remotedesktop\Network\bin\Debug\Model.dll
+C:\Users\USER\remotedesktop\Network\bin\Debug\Nini.dll
+C:\Users\USER\remotedesktop\Network\bin\Debug\Model.pdb
+C:\Users\USER\remotedesktop\Network\bin\Debug\Lidgren.Network.pdb
+C:\Users\USER\remotedesktop\Network\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.xml
+C:\Users\USER\remotedesktop\Network\obj\Debug\Network.csproj.AssemblyReference.cache
+C:\Users\USER\remotedesktop\Network\obj\Debug\Network.csproj.CoreCompileInputs.cache
+C:\Users\USER\remotedesktop\Network\obj\Debug\Network.csproj.Up2Date
+C:\Users\USER\remotedesktop\Network\obj\Debug\Network.dll
+C:\Users\USER\remotedesktop\Network\obj\Debug\Network.pdb
+E:\remotedesktoppp\Network\bin\Debug\Network.dll
+E:\remotedesktoppp\Network\bin\Debug\Network.pdb
+E:\remotedesktoppp\Network\bin\Debug\Lidgren.Network.dll
+E:\remotedesktoppp\Network\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.dll
+E:\remotedesktoppp\Network\bin\Debug\Model.dll
+E:\remotedesktoppp\Network\bin\Debug\Nini.dll
+E:\remotedesktoppp\Network\bin\Debug\Model.pdb
+E:\remotedesktoppp\Network\bin\Debug\Lidgren.Network.pdb
+E:\remotedesktoppp\Network\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.xml
+E:\remotedesktoppp\Network\obj\Debug\Network.csproj.AssemblyReference.cache
+E:\remotedesktoppp\Network\obj\Debug\Network.csproj.CoreCompileInputs.cache
+E:\remotedesktoppp\Network\obj\Debug\Network.csproj.Up2Date
+E:\remotedesktoppp\Network\obj\Debug\Network.dll
+E:\remotedesktoppp\Network\obj\Debug\Network.pdb

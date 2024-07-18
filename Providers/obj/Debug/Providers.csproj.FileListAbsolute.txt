@@ -1,0 +1,86 @@
+C:\Users\Jason\Dropbox\RemoteDesktop\Providers\bin\Debug\Providers.dll
+C:\Users\Jason\Dropbox\RemoteDesktop\Providers\bin\Debug\Providers.pdb
+C:\Users\Jason\Dropbox\RemoteDesktop\Providers\bin\Debug\Lidgren.Network.dll
+C:\Users\Jason\Dropbox\RemoteDesktop\Providers\bin\Debug\MirrorDriver.dll
+C:\Users\Jason\Dropbox\RemoteDesktop\Providers\bin\Debug\Model.dll
+C:\Users\Jason\Dropbox\RemoteDesktop\Providers\bin\Debug\Network.dll
+C:\Users\Jason\Dropbox\RemoteDesktop\Providers\bin\Debug\Nini.dll
+C:\Users\Jason\Dropbox\RemoteDesktop\Providers\bin\Debug\MirrorDriver.pdb
+C:\Users\Jason\Dropbox\RemoteDesktop\Providers\bin\Debug\Model.pdb
+C:\Users\Jason\Dropbox\RemoteDesktop\Providers\bin\Debug\Network.pdb
+C:\Users\Jason\Dropbox\RemoteDesktop\Providers\bin\Debug\Lidgren.Network.pdb
+C:\Users\Jason\Dropbox\RemoteDesktop\Providers\obj\Debug\Providers.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Dropbox\RemoteDesktop\Providers\obj\Debug\Providers.dll
+C:\Users\Jason\Dropbox\RemoteDesktop\Providers\obj\Debug\Providers.pdb
+E:\RemoteDesktop\Providers\bin\Debug\Providers.dll
+E:\RemoteDesktop\Providers\bin\Debug\Providers.pdb
+E:\RemoteDesktop\Providers\bin\Debug\Lidgren.Network.dll
+E:\RemoteDesktop\Providers\bin\Debug\MirrorDriver.dll
+E:\RemoteDesktop\Providers\bin\Debug\Model.dll
+E:\RemoteDesktop\Providers\bin\Debug\Network.dll
+E:\RemoteDesktop\Providers\bin\Debug\Nini.dll
+E:\RemoteDesktop\Providers\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.dll
+E:\RemoteDesktop\Providers\bin\Debug\MirrorDriver.pdb
+E:\RemoteDesktop\Providers\bin\Debug\Model.pdb
+E:\RemoteDesktop\Providers\bin\Debug\Network.pdb
+E:\RemoteDesktop\Providers\bin\Debug\Lidgren.Network.pdb
+E:\RemoteDesktop\Providers\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.xml
+E:\RemoteDesktop\Providers\obj\Debug\Providers.csproj.AssemblyReference.cache
+E:\RemoteDesktop\Providers\obj\Debug\Providers.csproj.CoreCompileInputs.cache
+E:\RemoteDesktop\Providers\obj\Debug\Providers.csproj.Up2Date
+E:\RemoteDesktop\Providers\obj\Debug\Providers.dll
+E:\RemoteDesktop\Providers\obj\Debug\Providers.pdb
+E:\quản trị mạng\RemoteDesktop\Providers\bin\Debug\Providers.dll
+E:\quản trị mạng\RemoteDesktop\Providers\bin\Debug\Providers.pdb
+E:\quản trị mạng\RemoteDesktop\Providers\bin\Debug\Lidgren.Network.dll
+E:\quản trị mạng\RemoteDesktop\Providers\bin\Debug\MirrorDriver.dll
+E:\quản trị mạng\RemoteDesktop\Providers\bin\Debug\Model.dll
+E:\quản trị mạng\RemoteDesktop\Providers\bin\Debug\Network.dll
+E:\quản trị mạng\RemoteDesktop\Providers\bin\Debug\Nini.dll
+E:\quản trị mạng\RemoteDesktop\Providers\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.dll
+E:\quản trị mạng\RemoteDesktop\Providers\bin\Debug\MirrorDriver.pdb
+E:\quản trị mạng\RemoteDesktop\Providers\bin\Debug\Model.pdb
+E:\quản trị mạng\RemoteDesktop\Providers\bin\Debug\Network.pdb
+E:\quản trị mạng\RemoteDesktop\Providers\bin\Debug\Lidgren.Network.pdb
+E:\quản trị mạng\RemoteDesktop\Providers\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.xml
+E:\quản trị mạng\RemoteDesktop\Providers\obj\Debug\Providers.csproj.AssemblyReference.cache
+E:\quản trị mạng\RemoteDesktop\Providers\obj\Debug\Providers.csproj.CoreCompileInputs.cache
+E:\quản trị mạng\RemoteDesktop\Providers\obj\Debug\Providers.csproj.Up2Date
+E:\quản trị mạng\RemoteDesktop\Providers\obj\Debug\Providers.dll
+E:\quản trị mạng\RemoteDesktop\Providers\obj\Debug\Providers.pdb
+C:\Users\USER\remotedesktop\Providers\bin\Debug\Providers.dll
+C:\Users\USER\remotedesktop\Providers\bin\Debug\Providers.pdb
+C:\Users\USER\remotedesktop\Providers\bin\Debug\Lidgren.Network.dll
+C:\Users\USER\remotedesktop\Providers\bin\Debug\MirrorDriver.dll
+C:\Users\USER\remotedesktop\Providers\bin\Debug\Model.dll
+C:\Users\USER\remotedesktop\Providers\bin\Debug\Network.dll
+C:\Users\USER\remotedesktop\Providers\bin\Debug\Nini.dll
+C:\Users\USER\remotedesktop\Providers\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.dll
+C:\Users\USER\remotedesktop\Providers\bin\Debug\MirrorDriver.pdb
+C:\Users\USER\remotedesktop\Providers\bin\Debug\Model.pdb
+C:\Users\USER\remotedesktop\Providers\bin\Debug\Network.pdb
+C:\Users\USER\remotedesktop\Providers\bin\Debug\Lidgren.Network.pdb
+C:\Users\USER\remotedesktop\Providers\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.xml
+C:\Users\USER\remotedesktop\Providers\obj\Debug\Providers.csproj.AssemblyReference.cache
+C:\Users\USER\remotedesktop\Providers\obj\Debug\Providers.csproj.CoreCompileInputs.cache
+C:\Users\USER\remotedesktop\Providers\obj\Debug\Providers.csproj.Up2Date
+C:\Users\USER\remotedesktop\Providers\obj\Debug\Providers.dll
+C:\Users\USER\remotedesktop\Providers\obj\Debug\Providers.pdb
+E:\remotedesktoppp\Providers\bin\Debug\Providers.dll
+E:\remotedesktoppp\Providers\bin\Debug\Providers.pdb
+E:\remotedesktoppp\Providers\bin\Debug\Lidgren.Network.dll
+E:\remotedesktoppp\Providers\bin\Debug\MirrorDriver.dll
+E:\remotedesktoppp\Providers\bin\Debug\Model.dll
+E:\remotedesktoppp\Providers\bin\Debug\Network.dll
+E:\remotedesktoppp\Providers\bin\Debug\Nini.dll
+E:\remotedesktoppp\Providers\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.dll
+E:\remotedesktoppp\Providers\bin\Debug\MirrorDriver.pdb
+E:\remotedesktoppp\Providers\bin\Debug\Model.pdb
+E:\remotedesktoppp\Providers\bin\Debug\Network.pdb
+E:\remotedesktoppp\Providers\bin\Debug\Lidgren.Network.pdb
+E:\remotedesktoppp\Providers\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.xml
+E:\remotedesktoppp\Providers\obj\Debug\Providers.csproj.AssemblyReference.cache
+E:\remotedesktoppp\Providers\obj\Debug\Providers.csproj.CoreCompileInputs.cache
+E:\remotedesktoppp\Providers\obj\Debug\Providers.csproj.Up2Date
+E:\remotedesktoppp\Providers\obj\Debug\Providers.dll
+E:\remotedesktoppp\Providers\obj\Debug\Providers.pdb
